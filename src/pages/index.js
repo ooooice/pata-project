@@ -183,7 +183,7 @@ function Index() {
           margin: 'auto 2px',
           width: '100%'
         }}>
-          {'API Provided by'}
+          {'Data provided by'}
         </Typography>
         <Grid container textAlign="center" spacing={1.5} paddingTop={2}>
           <Grid item xs={6} md={3}>
